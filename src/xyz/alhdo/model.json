@@ -1,0 +1,8 @@
+[
+  {
+    "id" : "1",
+    "nbVoisin": 2,
+    "successeurs" : [2 ,3],
+    "arcs" : [1,2]
+  }
+]
